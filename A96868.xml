@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christ's warning-piece: giving notice to every one to watch, and keep their garments. Delivered in a sermon, preached at Margarets Westminster, before the Honourable House of Commons, at their late solemn fast, Octob. 30. 1644. By Francis Woodcock, Minister in London, and one of the Assembly of Divines. Published by order of the said House.</title>
+            <author>Woodcock, Francis, 1614?-1651.</author>
+         </titleStmt>
+         <extent>Approx. 67 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96868</idno><idno type="EEBO-CITATION">99868828</idno>
+  <idno type="VID">121184</idno>
+  <idno type="EEBO-PROQUEST">2240962231</idno>
+  
+            <idno type="STC">Wing W3429</idno>
+            <idno type="STC">Thomason E18_21</idno>
+            <idno type="STC">ESTC R209985</idno>
+            <idno type="PROQUEST">99868828</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99868828e"/>
+            <note>(EEBO-TCP ; phase 2, no. A96868)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 121184)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 4:E18[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christ's warning-piece: giving notice to every one to watch, and keep their garments. Delivered in a sermon, preached at Margarets Westminster, before the Honourable House of Commons, at their late solemn fast, Octob. 30. 1644. By Francis Woodcock, Minister in London, and one of the Assembly of Divines. Published by order of the said House.</title>
+                  <author>Woodcock, Francis, 1614?-1651.</author>
+               </titleStmt>
+               <extent>[8], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.R. for Christopher Meredith and Luke Fawne, and are to be sold at their shops, in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Order to print on p. [2].</note>
+                  <note>Running title reads: A sermon preached at the monethly fast, before the Honourable House of Commons. Octob. 30. 1644.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  N.T. --  Revelation XVI, 15 --  Sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:121184:1"/>
+            <p>
+               <hi>Christ's Warning-piece:</hi> Giving notice to every one to <hi>Watch,</hi> and keep their <hi>Garments.</hi>
+            </p>
+            <p>Delivered in A SERMON, Preached at <hi>Margarets Westminster,</hi> before the Honourable House of COMMONS, at their late Solemn Fast, <hi>Octob.</hi> 30. 1644.</p>
+            <p>By <hi>Francis Woodcock,</hi> Minister in <hi>London,</hi> and one of the <hi>Assembly</hi> of <hi>Divines.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order">
+                        <p>
+                           <hi>Published by Order of the said House.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <bibl>MAT. 24. 43.</bibl>
+               <p>But know this, that if the good man of the house had known at what watch the Theef would come he would have Watched.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. R.</hi> for <hi>Christopher Meredith</hi> and <hi>Luke Fawne,</hi> and are to be sold at their Shops, in <hi>Pauls Church-yard.</hi> 1644.</p>
+         </div>
+         <div type="Parliamentary_order">
+            <pb facs="tcp:121184:2"/>
+            <p>ORdered by the Commons As<g ref="char:EOLhyphen"/>sembled in Parliament; That M<seg rend="sup">r</seg>
+               <hi>Rous,</hi> M<seg rend="sup">r</seg>
+               <hi>Long,</hi> and M<seg rend="sup">r</seg>
+               <hi>Wheeler,</hi> do from this House give Thanks to M<seg rend="sup">r</seg>
+               <hi>Woodcock,</hi> for the great pains he took in the Sermon he Preached this day, at the Intreaty of the said Commons, at S <hi>Margarets Westmin<g ref="char:EOLhyphen"/>ster,</hi> (it being a day of publique Hu<g ref="char:EOLhyphen"/>miliation) and to desire him to Print his Sermon; And it is Orde<g ref="char:EOLhyphen"/>red, that none shall presume to Print his Sermon, but whom shall be licensed under the hand writing of the said M<seg rend="sup">r</seg>
+               <hi>Woodcocke.</hi>
+            </p>
+            <closer>
+               <signed>H. Elsynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="authors_note">
+            <p>I appoint <hi>Christopher Meredith</hi> and <hi>Luke Fawn,</hi> to Print my Sermon.</p>
+            <closer>
+               <signed>FRA. WOODCOCKE.</signed>
+            </closer>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:121184:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:121184:3"/>
+            <pb facs="tcp:121184:3"/>
+            <head>TO The Honourable House of Com<g ref="char:EOLhyphen"/>mons Assembled in PARLIAMENT.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">G</seg>OD is pleased to put so much Honour upon his Ministers, as to stile them his peoples</hi> Watch-men, <hi>and his own</hi> Remembrancers: <hi>There is one Scripture that shews them in both these capacities:</hi> I have set Watch<g ref="char:EOLhyphen"/>men <note place="margin">Isa. 62. 6.</note> upon the walls of Jerusulem, <hi>ther's the one:</hi> You that are the Lords <hi>Remembrancers</hi> give him no rest, <hi>there's the other. Which same perhaps your wisdomes sometimes light<g ref="char:EOLhyphen"/>ing upon, is the cause why in so solemn a way, and for so long time together, you have thought good to employ them in both Capacities. And
+<pb facs="tcp:121184:4"/> not in vaine; For by the exercise of one of these I doubt not but many a blessed discovery of dan<g ref="char:EOLhyphen"/>ger hath been made, and so timously prevented; and by the other, hath been obtained many a sea<g ref="char:EOLhyphen"/>sonable and full Blessing. And herein the Ene<g ref="char:EOLhyphen"/>my (whatsoever other thing he can match you in) yet in this is certainly upon extreamesi dis<g ref="char:EOLhyphen"/>advantage; as neither having</hi> Remembrancers <hi>appointed to give the Lord no rest, till he shall make their</hi> Babylon <hi>a praise in the whole earth: or</hi> Watchmen <hi>set upon the walls there<g ref="char:EOLhyphen"/>of, that are able to fore-see its neer approach<g ref="char:EOLhyphen"/>ing misery, and desolation.</hi>
+            </p>
+            <p>
+               <hi>Among all those excellent ones that have been cal'd in this solemn way to</hi> watch <hi>and</hi> pray <hi>for you, you were pleased whether because the number was low which you had stinted your selves unto, or whether because you will have a taste of every man, or that the enemy might see the meanest among you is not altogether contemptible, or for what other cause I know not; but you were pleased (I say) not long since to Command me upon the Service. I could not but be conscious of very great insufficiency to such a taske, and yet it was Religion to me, not to dispute, much lesse refuse the com<g ref="char:EOLhyphen"/>mands
+<pb facs="tcp:121184:4"/> of those to whom not onely my own parti<g ref="char:EOLhyphen"/>cular, but the publique it self, is also so much engag'd. I resolved therefore, that seeing I could not avoyd the service, I would be</hi> faith<g ref="char:EOLhyphen"/>full <hi>in it, and look what I was short in other accomplishments, in that I would endeavour compensation:</hi>
+            </p>
+            <p>
+               <hi>Accordingly therefore, when I stood</hi> Senti<g ref="char:EOLhyphen"/>nell <hi>for you, and perceiving danger approa<g ref="char:EOLhyphen"/>ching (as was my duty)</hi> I fired a warning<g ref="char:EOLhyphen"/>piece <hi>in your hearing, the</hi> Report <hi>whereof I now this second time do humbly offer to you.</hi>
+            </p>
+            <p>
+               <hi>And now what further do I wish concerning it, but that this same</hi> Report <hi>which came (be<g ref="char:EOLhyphen"/>sides my expectation) so acceptable to your</hi> eares, <hi>(I hope your hearts too) might now finde the like favour in your</hi> eyes <hi>also: and that this</hi> Alarum <hi>which took so well at the</hi> main Guard <hi>of this Kingdom (the Parliament I mean) may passe from you, to all that are concern'd, and be a seasonable warning to them also.</hi>
+            </p>
+            <p>
+               <hi>If I have been somewhat</hi> loud, <hi>and</hi> plain, <hi>the Nature of the discourse will easily be my excuse, which in such cases must either be so, or 'tis worih nothing:</hi> If the Trumpet give <note place="margin">Cor. 14. 18.</note> an uncertain sound, who shall prepare him<g ref="char:EOLhyphen"/>self
+<pb facs="tcp:121184:5"/> to the Battell: <hi>And when I was a declai<g ref="char:EOLhyphen"/>ming against unfaithfulnesse in others, you know it behooved me to avoyd all appearance and suspition of it in my self.</hi>
+            </p>
+            <p>
+               <hi>But why stand I thus excusing, when your goodnesse had forgiven me this, and much more already?</hi>
+            </p>
+            <p>
+               <hi>And now this piece of my task is over, and having stood my time upon the</hi> watch, <hi>reliefe also comming, I must at present cease in this capacity to do you further service: yet in the other I shall not: I shall not cease to make men<g ref="char:EOLhyphen"/>tion of you in my prayers; and though I can be your</hi> Watch-man <hi>but for a season, yet shall I alwayes be</hi>
+            </p>
+            <closer>
+               <signed>Your <hi>Remembrancer</hi> at the Thron<lb/> of Grace, faithfull &amp; devoted<lb/> FRA. WOODCOCKE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:121184:5"/>
+            <head>
+               <figure>
+                  <figDesc>sun with Hebrew writing shining out of clouds</figDesc>
+               </figure> A Sermon Preached at the monethly Fast, before the Honourable House of COMMONS. <hi>Octob.</hi> 30. 1644.</head>
+            <epigraph>
+               <q>
+                  <bibl>Revel. 16. 15.</bibl>
+                  <p>Behold I come as a theef: bles<g ref="char:EOLhyphen"/>sed is he that watcheth, and keepeth his gar<g ref="char:EOLhyphen"/>ments, lest he walk naked, and they see his shame.</p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>
+                  <seg rend="decorInit">S</seg>Olomon</hi> tels us, <note n="a" place="margin">Pro. 25. 11.</note>
+               <hi>A word spoken in season is like apples of gold in pictures of silver,</hi> from whence Preachers especially, may take this intimation that they make choise of <hi>seasonable words,</hi> and so much the rather because <hi>Solomon</hi> himself who was by way of eminencie stiled <hi>The Preacher,</hi> did <note place="margin">Eccles. 12. 12. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>Verba desider<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>.</hi> Mer.</note> so in his Preaching, and <hi>sought out</hi> (sayes the Scrip<g ref="char:EOLhyphen"/>ture) <hi>words of desire,</hi> or <hi>acceptable words,</hi> which (no que<g ref="char:EOLhyphen"/>stion) were <hi>seasonable words</hi> also.</p>
+            <pb n="2" facs="tcp:121184:6"/>
+            <p>This consideration hath prevailed with me, to put my hand into this (if I may so call it) divine <hi>Lottery</hi> of time, I mean this book of <hi>Revelation,</hi> and out of it to <hi>draw</hi> this Text, which whether it be a <hi>blank,</hi> or rather something that may be <hi>seasonable,</hi> when I have <hi>opened</hi> it, I shall leave it to your Wisdomes to judge.</p>
+            <p>And truely such is this Prophesie of the <hi>Revelation,</hi> that were we but as well skil'd in this <hi>heavenly book,</hi> as <note n="*" place="margin">Astronomers Astrologers.</note> some pretend they are in the <hi>book of heaven,</hi> it would not be difficult from out of it, to frame an ex<g ref="char:EOLhyphen"/>act Kalender of times, and hence always to be able to speak something that might be seasonable.</p>
+            <p>But as concerning the seasonablenesse of my Text, you may please to understand, the Holy Ghost doth wholy take up this sixteenth chapter, wherein it is, with the description of the <hi>seven Vialls,</hi> containing in them those seven last plagues, which are designed for the wasting, and ruine of Antichrist and his king<g ref="char:EOLhyphen"/>dome: and having in the former part of the chapter dispatcht five of them, together with the severall gra<g ref="char:EOLhyphen"/>duall miseries they bring upon the Antichristian Kingdome, he proceeds forward in the words more immediately foregoing, with the description of the sixth, at the foot of which description, you have the words of my Text, <hi>Behold I come as a theef, blessed is he that watcheth, and keepeth his garments, &amp;c.</hi>
+            </p>
+            <p>Concerning therefore this <hi>Sixt Viall,</hi> because the account of it (as you easily perceive) will let you into the very bosome of the Text; you may take it briefly thus. The sixth Viall is powred forth upon the great River <hi>Euphrates,</hi> whereupon the waters thereof become dryed up: by which drying up of
+<pb n="3" facs="tcp:121184:6"/>
+               <hi>Euphrates,</hi> some conceive is meant the drying up of <note place="margin">Isa. 11. 15, 16 Zech. 10. 10, 11. In the former of which pla<g ref="char:EOLhyphen"/>ces the <hi>Chaldee</hi> Paraphrase cals the river ex<g ref="char:EOLhyphen"/>presly, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> the river indeed, some like thing whereunto we reade of, both in the Prophesies of <hi>Isaiah,</hi> and <hi>Zechariah,</hi> from whence not improbably this Scripture hath been borrowed.</p>
+            <p>
+               <note n="*" place="margin">Bulling Parae.</note> Others interpreting it mystically, conceive it to be the drying up of the Popes revenue, his Annates, <note place="margin">(i) Euphrates.</note> Peter-pence, Oblations, first Fruits, or whatever other course was taken, to bring in a <hi>flood</hi> of wealth into the <hi>See of Rome,</hi> all which continually flowing thereinto, afforded no lesse strength and security unto <hi>Rome,</hi> then <hi>Euphrates</hi> formerly did unto <hi>Babylon.</hi> Others not much varying from the former, conceive the <hi>Euphrates</hi> meanes nothing else but the slood of Popish Superstition and Idolatry, which then is dry<g ref="char:EOLhyphen"/>ed up, when Kingdomes and people reforme, and withdraw themselves from them. Again, there are some that conceive the drying up of the <hi>Euphrates</hi> is the destruction of the <hi>Turk,</hi> who being brought in by the sixth Trumpet, is now taken away by the sixth Viall; the Vials removing those severall plagues, which the Trumpets had brought in before; and in the same Order they were brought in also.</p>
+            <p>But whatsoever it mean, sure I am, Divines con<g ref="char:EOLhyphen"/>ceive, here is intended an Allusion, to the destruction of the Ancient <hi>Babylon;</hi> that looke as <note n="*" place="margin">
+                  <p>Fossis quidem jam peractis, Cyrus eum audusset celebrari Babilone festum quendam ejus modi die quo Babilonii omnes nocte tota potarent, &amp; cominessa<g ref="char:EOLhyphen"/>remur, quam primum eo die tenebrae ac<g ref="char:EOLhyphen"/>cessissent, magna mortalium multitudine ad hibtta, forsarum estia versus amnem aperuit. Hoc quum factum esset, aqua noctu in fossas manabat, &amp; alveus fluvii per urbem tendens, hominibus permeabilis esse caepit, <hi>&amp;c.</hi> Xenoph. Cyrop. Hist. lib. 7. p. 190.</p>
+                  <p>Quod quam ita factum esset, Persae qui ad hoc ipsum in structi erant, per al<g ref="char:EOLhyphen"/>veion unde flavius Euphrates abcesserat mediorum fere femorum tenus fortitur Babilenent itaroi<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>unt, Atque ita pri<g ref="char:EOLhyphen"/>mo capta est Babilon, <hi>Herod. l. 1.</hi>
+                  </p>
+               </note>
+               <hi>Cyrus</hi> drawing away the <hi>Euphrates</hi> that ran through the midst of it, whereby it being made passable to the Souldiers, entred the City and took it, and so the dry<g ref="char:EOLhyphen"/>ing up of the <hi>Euphrates</hi> then, was an immediate fore-runner of the destru<g ref="char:EOLhyphen"/>ction
+<pb n="4" facs="tcp:121184:7"/> of that <hi>Babylon:</hi> in like manner (say they) the drying up of the <hi>Euphrates</hi> here mentioned, be it what it will be, must be an immediate fore runner of the destruction of <hi>Babylon Anti-chri<g ref="char:EOLhyphen"/>stian.</hi>
+            </p>
+            <p>This being so, the <hi>Romish Euphrates</hi> being dryed up, and so the <hi>Romish Babylon</hi> hasting amain towards its finall ruine, in this desperate lownesse of things, for now indeed tis <hi>Desperata causa papatus,</hi> the Romish Antichrist sends abroad his Emissaries unto the Kings and Princes of the earth, to solicite their uttermost assi<g ref="char:EOLhyphen"/>stance to his sinking and desperate affaires; and while these Emissaries are now gone abroad, to draw in all that possibly they can to their party, the Text strikes in most opportunely, <hi>Behold I come as a theef, blessed is he that watcheth and keepeth his garments, &amp;c.</hi> As if the Holy Ghost in other words had said; Now that the Antichristian Emissaries, are sent abroad to seduce, and draw whom they can, to assist their declining faction, let every one beware he be not drawn away and seduced.</p>
+            <p>And so at once you have a brief account both of the sixth Viall, in the foregoing words, and of my Text also, and by this time you perceive, I doubt not, whether all this put together may at all relate unto our times, and so consequently whether yea or no, it may be any whit <hi>seasonable.</hi>
+            </p>
+            <p>I do not contend these are the times wherein this Prophesie does receive its most full and eminent ac<g ref="char:EOLhyphen"/>complishment; suppose they be not, yet cannot this
+<pb n="5" facs="tcp:121184:7"/> make the Text, not usefull, or not seasonable; un<g ref="char:EOLhyphen"/>lesse perhaps we can imagine that this danger of which the Text warnes us, can come unto our notice too soon, and so we may have too much time before hand, to provide our selves against it. But I adde fur<g ref="char:EOLhyphen"/>ther, though this should not be that fulnesse of time, yet certainly its very neere it, and (no question) but what is now a doing amongst us, is at least wayes a <hi>preludium,</hi> or Ante-maske unto it. And in as much as we have seen in our times the Romish Antichrist in his declining condition, sending abroad his Emis<g ref="char:EOLhyphen"/>saries to the Princes of the earth, and to the Nations to fetch them in to his succour; most confident I am it can be no <hi>unseasonable</hi> monition to us, that we are bid beware lest we suffer our selves to be misled and seduced by them.</p>
+            <p>The Text then (that I may directly fall upon it) is <hi>Christs warning piece,</hi> and this let off for two pur<g ref="char:EOLhyphen"/>poses.</p>
+            <p n="1">1. To advertise us, that when we see Antichrist in his declining condition, sending forth seducing spi<g ref="char:EOLhyphen"/>rits to Kings and Princes, to incite them to take up Armes in his quarrell, then is Christ a making ready for his second comming.</p>
+            <p n="2">2. That in consideration of the neer approach of Christs comming, as also the going abroad of these seducing spirits, we be perswaded to watch, and take heed we be not unhappily misled by any of these Seducers.</p>
+            <p>The latter words of the Text may seem onely to have an aspect upon the former, as though therefore onely we were bid to watch, because of the now
+<pb n="6" facs="tcp:121184:8"/> neer approach of Christs second comming: But for my part I cannot but think, they look also beyond the Text upon what goes before, and we not onely are bid watch and keep our garments, lest Christ comming as a theef should steal them, but also if not principally, least the Antichristian Emissaries should steal them: And indeede this much I must needs say, That when it sounds harsh, and incongrous that Christ is said to steal away our garments, there's all the congruity in the world (as will appear hereafter) that these Antichristian Emissaries are said to steal away our garments.</p>
+            <p>The sum of all is this much; The Popish Anti<g ref="char:EOLhyphen"/>christ perceiving himself, and Kingdome in a very low and declining condition, and casting with him<g ref="char:EOLhyphen"/>self how to finde out some remedie; at least he sends abroad his Emissaries to solicite the Kings and peo<g ref="char:EOLhyphen"/>ple of the earth, to assist him with all the power that possibly they can make, about which time of these Emissaries going abroad, Christ warns us to expect his second comming, as also that we be not decei<g ref="char:EOLhyphen"/>ved, and drawn away, to the Popish party by any of these seducers: <hi>Behold I come as a theef, blessed is he that watcheth, and keepeth his garments, that he do not walk na<g ref="char:EOLhyphen"/>ked, and they see his shame.</hi>
+            </p>
+            <p>Having thus cleared the words, at least wayes as far as we need at present; I now proceede to make Observations upon them, and from the former part of the Text, I shall offer you such as these:</p>
+            <p>First, from the contexture and coherence of these words with them that go before.</p>
+            <p>Then when Antichrist being reduced to last exi<g ref="char:EOLhyphen"/>gents <label type="milestone">
+                  <seg type="milestoneunit">Obs. </seg>1</label>
+               <pb n="7" facs="tcp:121184:8"/> sends abroad seducing spirits, to the Potentates of the earth, then is Christ a making ready for his se<g ref="char:EOLhyphen"/>cond comming: <note n="*" place="margin">
+                  <hi>Hic ingenue fateor videre m<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> non posse quinam satis conveniat totus hic versiculus huic loco,</hi> Beza Annot. ad la.</note>
+               <hi>Beza</hi> admires how these words <hi>[Behold I come as a theef]</hi> stole into this place; but had he considered, that the going forth of these Popish Emissaries, and Christs preparing to his second com<g ref="char:EOLhyphen"/>ming had been <hi>syncronismes,</hi> things contemporary, it would have easily taken off that wonderment. And that they are contemporary, and withall that this comming of Christ here mentioned is no Analogie or resemblance onely of his comming (as many Di<g ref="char:EOLhyphen"/>vines contend) but Christs second comming indeed, appeares by these evidences.</p>
+            <p n="1">1. Because Christ himself is in person in this great battell, which their Emissaries are sent to gather the Popishly affected Kings and people unto. So we read expresly in the 19. <hi>Chap.</hi> of this Prophesie, 19, 20, 21. <hi>verses,</hi> which verses are nothing else (in the judge<g ref="char:EOLhyphen"/>ment of best interpreters) then a description of the same battell, which here in our text preparation is making toward.</p>
+            <p n="2">2. In this battell Antichrist receives his finall and irrecoverable overthrow. For in it, <note n="d" place="margin">Chap. 19. <hi>vers.</hi> 28.</note>
+               <hi>the beast and the fals Prophet are taken</hi> (that is, whole <hi>Antichrist</hi> is taken) <hi>and thrown alive into the lake that burns with fire and brim<g ref="char:EOLhyphen"/>stone:</hi> but this may not be, unlesse we suppose Christ already come; for the Apostle had taught us expresly before, that Antichrist must be destroyed, <note n="e" place="margin">2 Thess. <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. 8. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Illustri adventu <hi>Beza.</hi>
+               </note>
+               <hi>By the Spirit of Christs mouth, and by the brightnesse of his com<g ref="char:EOLhyphen"/>ming.</hi>
+            </p>
+            <p n="3">3. Immediatly upon the ending of this battell, be<g ref="char:EOLhyphen"/>gins the thousand yeers, and Christs glorious King<g ref="char:EOLhyphen"/>dome,
+<pb n="8" facs="tcp:121184:9"/> as severall Scriptures do testifie, and therefore <note place="margin">(a) Chap. 16. ver. 17. com<g ref="char:EOLhyphen"/>pare Chap. 21. ver. 5, 6.</note> about the time of the going forth of these Emissaries, is Christ a making ready for his second comming.</p>
+            <p>Besides all this, I could produce other <note n="b" place="margin">Mat. 24. v. 24, 30. Mar. 13. 21, 22, 26.</note> Scrip<g ref="char:EOLhyphen"/>tures which assure us that towards the last end of time, seducing spirits shall come abroad, and then immediately after shall come abroad, and then immediately after shall the Son of man appear, with power and great glory.</p>
+            <p>When Christ comes he comes suddenly as a theef, <label type="milestone">
+                  <seg type="milestoneunit">Obs. </seg>2</label> so the Text expresly, <hi>Behold I come as a Theef.</hi> In like manner, we read other where, <hi>The day of the Lord com<g ref="char:EOLhyphen"/>meth</hi>
+               <note place="margin">(c) 1 <hi>Thess.</hi> 5.</note>
+               <hi>as a theef in the night:</hi> And it is yet more evident, because our Saviour had formerly told us, that <note n="d" place="margin">Mat. 24. 37</note>
+               <hi>As in the dayes of Noah, that were before the flood, they were eating, and drinking, marrying, and giving in marriage, untill the day that Noah entred into the Arke, and the slood came and took them all away, so shall the comming of the Son of man be.</hi> All which are sufficient proof of the point, and with which I had dismist it, had not this Use of it been made to my hand: I hat therefore <note n="e" place="margin">Luke 21. 34.</note>
+               <hi>We take heed, least at any time our hearts be over char<g ref="char:EOLhyphen"/>ged with surfeiting and drunkennesse, and the cares of this life, and so that day come upon us unawares.</hi> And the ra<g ref="char:EOLhyphen"/>ther, <note n="f" place="margin">Mat. 24. 48, 49, 50. <hi>N. B.</hi>
+               </note>
+               <hi>For if the evill servant shall say, my Lord defer<g ref="char:EOLhyphen"/>reth his comming, and shall begin to smite his fellow ser<g ref="char:EOLhyphen"/>vants, and to cate and drink with the drunken; the Lord of that servant shall come in a day when he looks not for him, and in an houre when he is not aware of, and shall cut him a sunder, and shall give him his portion with the hypocrites, there shall be weeping and gnashing of teach.</hi>
+            </p>
+            <p>Though Christ come suddenly, and as a theef, yet <label type="milestone">
+                  <seg type="milestoneunit">Obs. </seg>3</label> is he pleased to give us warning of his comming.</p>
+            <pb n="9" facs="tcp:121184:9"/>
+            <p>
+               <hi>Behold I come as a theef,</hi> and indeed it is Christs man<g ref="char:EOLhyphen"/>ner to warn his own of such like accidents, before <note place="margin">Mat. 10.</note> they come upon them: thus he did to his Disciples, and shewed them all the hard entertainment the Go<g ref="char:EOLhyphen"/>spell should meet with, and how their preaching of it would draw upon them the spight and malice of all the world. Thus he warnes all that will <hi>live godly,</hi>
+               <note place="margin">2 Tim. 3. 11. Act. 14. 22.</note> that they prepare for <hi>persecution;</hi> as also all that do intend for heaven, that they expect through <hi>many tri<g ref="char:EOLhyphen"/>bulations</hi> to enter into it. And as concerning the dan<g ref="char:EOLhyphen"/>ger of Christs sudden comming, as also of these se<g ref="char:EOLhyphen"/>ducing spirits of which the Text makes mention, here is not the first warning we have of them: nay, when he was on earth he gave us intimation to this purpose, <hi>Take heed</hi> (says he, speaking expresly of these <note place="margin">Mar. 13. 23.</note> same matters) <hi>behold I have told you all things.</hi>
+            </p>
+            <p>And this he doth out of his great indulgence and love toward us, not willing that danger should sur<g ref="char:EOLhyphen"/>prize us, but rather that having timous advertisement, we might put our selves into posture to entertaine it.</p>
+            <p>*<hi>Minus enim jacula feriunt quae praevidentur, &amp; eò nos tollerabilis mundi mala suscipimus, quo magis contra haec,</hi>
+               <note place="margin">Gregar.</note>
+               <hi>per providentiae clipeum munimur.</hi>
+            </p>
+            <p>These you have from the former part of the Text, which it must suffice thus to have mentioned onely, my maine work lying in the latter part, which I now addresse my self unto, and which will afford the like number of Observations also.</p>
+            <p>
+               <hi>When Christs comming is at hand, and the Antichristi<g ref="char:EOLhyphen"/>an <label type="milestone">
+                     <seg type="milestoneunit">Obs. </seg>1</label> Emissaries are abroad, there's danger that many for want of watchfulnesse will loose their garments:</hi> I raise the Observation upon this ground, in as much as
+<pb n="10" facs="tcp:121184:10"/> therefore They seeme to be pronounced blessed that keepe their garments, because many in those times will be found, through negligence, to have lost their garments.</p>
+            <p>
+               <hi>Such as through negligence shall then lose their garments, <label type="milestone">
+                     <seg type="milestoneunit">Obs. </seg>2</label> this misery will befall them, They shall walk naked, and men shall see their shame,</hi> so the Text, <hi>Lest he walk naked and men see his shame.</hi>
+            </p>
+            <p>
+               <hi>Such as in these times are found to watch, and keepe their <label type="milestone">
+                     <seg type="milestoneunit">Obs. </seg>3</label> garments, are blessed: Blessed is he that watcheth and kee<g ref="char:EOLhyphen"/>peth his garments.</hi>
+            </p>
+            <p>I begin with the first of these, <hi>viz. When Christs comming is at hand, and the Popish Emissaries are abroad, there's danger that may through want of watchfulnesse will lose their garments.</hi>
+            </p>
+            <p>In pursuance whereof we shall enquire,</p>
+            <p n="1">1. What these garments are which are in danger to be lost, and so consequently what it is to lose them.</p>
+            <p n="2">2. Whence this danger arises, and how it comes to passe, that at this time especially, many are in danger to lose their garments.</p>
+            <p>In answer to the former of these, <hi>viz.</hi> what is meant by these garments; It will not be amisse (I con<g ref="char:EOLhyphen"/>ceive) to enquire what this notion of [gar<g ref="char:EOLhyphen"/>ments] means in other Scriptures; and finding what these garments are there, it will contribute very much to our understanding what they mean in this place.</p>
+            <p>We finde therefore in the <note n="a" place="margin">Chap. 3. 18</note> third chapter of this Prophesie, a mention made of <hi>white garments; Lao<g ref="char:EOLhyphen"/>dicea</hi> is there councelled to buy of Christ <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>white rai<g ref="char:EOLhyphen"/>ment,
+<pb n="11" facs="tcp:121184:10"/> or white garments:</hi> by which (say Divines) is meant the righteousnesse, and grace of Christ.</p>
+            <p>In the 19. chapter and 14. verse, The Souldiers that follow Christ are said to be cloathed in <hi>fine lin<g ref="char:EOLhyphen"/>nen, white and clean;</hi> which I conceive interpreted by the 17. chapter, and 14. verse, where the same Souldiers are said to be <hi>chosen, and called, and faithfull;</hi> their faithfulnesse to Christ, and his cause, being at least a part of that fine linnen wherewith they are cloathed.</p>
+            <p>But to hold you in suspence no longer, the 19. chapter, and 8. verse, puts all out of question, and tels us expresly, the fine linnen, the same with the gar<g ref="char:EOLhyphen"/>ments about which we now enquire, it is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>the righteousnesses of the Saints:</hi> But why righ<g ref="char:EOLhyphen"/>teousnesses, and why garments, both in the plurall number? Why? Because there's more then one kind of righteousnesse a Christian weares, and so conse<g ref="char:EOLhyphen"/>quently, wears more then one garment: There's a righteousnesse imputed, which may very well be stil'd a garment, inasmuch as when this is put upon us in our Justification, then is God said to <note n="*" place="margin">Psal. 32. 1. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Signifies to cover sins as with a gar<g ref="char:EOLhyphen"/>ment, vid. Bu<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</note>
+               <hi>Cover all our sins as with a garment.</hi> Besides this, there is a righ<g ref="char:EOLhyphen"/>teousnesse inherent, which also not unfitly is resem<g ref="char:EOLhyphen"/>bled to a garment, the severall parts whereof, as namely humility, covers the nakednesse of pride; wisedome, the nakednesse of folly; patience, the nakednesse of frowardnesse; and so in like manner the nakednesse of all other lusts are hid and covered, by the garments of the opposite grace and righte<g ref="char:EOLhyphen"/>ousnesse.</p>
+            <p>To the former (as some well observe) the title
+<pb n="12" facs="tcp:121184:11"/>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is fitted, tis a <hi>pure</hi> garment this, wherein we appeare to God, without spot or wrinckle: To the other answers the title <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which though not so pure as the former, yet tis a <hi>bright</hi> garment, and makes our conversation exceeding <note n="*" place="margin">Mat. 5. 16.</note>
+               <hi>shining,</hi> and lovely in the eyes of men. The garment of imputed righteousnesse, covers our nakednesse from the sight of God: the garment of inherent righteousnesse, hides away our nakednesse from the eyes of men. So that look as garments cover the nakednesse of the body, so do these the nakednesse of the soul: again, as garments beautifie and adorn the body, so do these beautifie the soul; yea further, as garments shelter and fence the body; so do these shelter and secure the soul: from which severall respects, as also from the former Scriptures, we may safely conclude, A Christians <hi>Righteousnesses</hi> are a Christians <hi>Gar<g ref="char:EOLhyphen"/>ments.</hi>
+            </p>
+            <p>And having found out what these garments are, as also the kinds of them, now to bring all home to the point in hand. I conceive therefore, because the Text expresly mentions those Garments which do hide away our nakednesse from men, which the garments of Inherent righteousnes only do: therefore the gar<g ref="char:EOLhyphen"/>ments of Inherent righteousnesse are specially meant in the Text: and integrity, innocency, faith, fulnesse, or if you will, faith and a good conscience: these are the <hi>garments</hi> that do <hi>fit</hi> our present purpose: and so consequently, whereas we say, that when the Po<g ref="char:EOLhyphen"/>pish Emissaries are abroad, there will be great dan<g ref="char:EOLhyphen"/>ger of many mens losing their garments; the short of it is this: These seducing spirits will so handle the
+<pb n="13" facs="tcp:121184:11"/> matter, as to draw off many from their integrity, and faith fulnesse, to favour their party; and because of their tampering, it will be a hard matter in those times to keepe Faith and a good Conscience.</p>
+            <p>So we have dispatcht the first enquirie, <hi>viz.</hi> What these garments are, which we finde to be Integrity, Faithfulnesse, and such like; and so to lose these garments, is to lose a mans Faithfulnesse and Integri<g ref="char:EOLhyphen"/>ty; which I therefore again mention, because our cleernesse in this, will give exceeding much light to all that followes after.</p>
+            <p>2. Whence this danger arises, and of this you have <label type="milestone">
+                  <seg type="milestoneunit">Quest. </seg>2</label> a twofold ground:</p>
+            <p n="1">1. The fate of these, times which in Scripture are <note place="margin">2 Tim. 3. 1, 2, 3, 4.</note> foretold to be Apostatizing, and declining times. So we read in that 2. of <hi>Tim.</hi> 3. beginning, saith the Apostle, <hi>In the last dayes perillous times shall come, men shall be lovers of themselves, truce-breakers, false accusers, incontinent, fierce, despisers of those that are good, trai<g ref="char:EOLhyphen"/>tors, &amp;c.</hi> To like purpose is 24. of <hi>Mat.</hi> 10, 11, 12. <hi>And then</hi> (saith Christ, speaking professedly of these times) <hi>shall many be offended, and betray on another, and hate one another; and because Iniquity shall abound, the love</hi>
+               <note place="margin">N. B.</note>
+               <hi>of many shall grow cold.</hi>
+            </p>
+            <p>There is scarce any eminent Period of Times, but hath some Fate or other hanging over it: For In<g ref="char:EOLhyphen"/>stance; The first Ages were Times of Purity; this was their Fate, and by this they are known from those that follow after. The Times next succeding were Times of Errour and Heresie; <hi>Arrianisme</hi> was the Fate of those Times; such <hi>flouds</hi> whereof were <note place="margin">Rev. <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2. 15, 16.</note> cast out <hi>after the Church,</hi> and so many thereby carried
+<pb n="14" facs="tcp:121184:12"/> away, that then it was <hi>the whole world did wonder to see her self become Arrian.</hi> Those that followed, were Times of Darknesse, &amp; Ignorance; and this so great a Darknesse, so like that of <hi>Egypt,</hi> as that neither Lear<g ref="char:EOLhyphen"/>ning <note place="margin">Exod. 10. 23. <hi>Infoelix dicitur hoc Seculum ex<g ref="char:EOLhyphen"/>haustum homini<g ref="char:EOLhyphen"/>bus ingenio &amp; doctima claris in quo nihil sere dignm memoria posteritatis ge<g ref="char:EOLhyphen"/>stum sit.</hi> Geneb. Chron.</note> not abroad all this time: we have scarce so much from this Age, as to assure us it ever was: An Age <hi>in this onely notable, that it was notable for nothing.</hi> The Times succeeding these, cleared into Light and Re<g ref="char:EOLhyphen"/>formation; which Reformation, when once it is at its height, it then declines: and then Apostacie, a <hi>Laodicean temper</hi> (as we saw before) is the Fate of the last times, which follow after. So that look as <note place="margin">
+                  <hi>Laodicea</hi> is conceived by some to repre<g ref="char:EOLhyphen"/>sent the state of the Church which imme<g ref="char:EOLhyphen"/>diatly goes be<g ref="char:EOLhyphen"/>fore Christs second coming</note> Purity is the Fate of Primative times, Heresie of the next, Ignorance of the next, Reformation of those that succeeded; in like manner (which is excee<g ref="char:EOLhyphen"/>ding congruous) Apostacie becomes the Fate of those that draw neerest to the end; and as the times decline, also.</p>
+            <p>And so because there is a Fate hangs over these last times, disposing men to decline, and so to lose their Garments; hence it is, that then so many are in dan<g ref="char:EOLhyphen"/>ger of losing of them. This a first Ground.</p>
+            <p n="2">2. A second, is from the <hi>quality</hi> of those Emissa<g ref="char:EOLhyphen"/>ries, which about this time are sent abroad, to pillage men of their garments: and here is, <hi>The danger;</hi> for though when night draws on, and many are sleepie, yet they should not hereupon lose their garments; yet if at such a season theeves come in upon them, then alas, how can it be avoyded? Neither will you at all wonder, that people, when these are abroad
+<pb n="15" facs="tcp:121184:12"/> should lose their garments, be cheated of their In<g ref="char:EOLhyphen"/>tegrity, if you will please to stay and take a Character or two of these same Emissaries, which are sent a<g ref="char:EOLhyphen"/>broad to pillage men of them.</p>
+            <p>First then the Scripture calls them <hi>spirits:</hi> Spirits, <note place="margin">Verse 13.</note> not made of that dull, heavie mettall that we are; no, your fine, nimble, unwearied, active things: they are spirits: and are not your Priests and Jesuits such? fals not this Character most pat and apposite upon them? Is there any thing more unwearied, more active then they? Can any Spirits transforme themselves into more shapes than they? Souldiers, Merchants, Phy<g ref="char:EOLhyphen"/>sitians, Gallants, Divines, what not? Are there any Guards their spirits cannot passe? Is there any place, or <hi>Pallace</hi> these cannot enter? Is there any Company, Councells, these cannot insinuate into, yea though <note place="margin">N. E.</note> most secret, yea though <hi>Cabinet Councels,</hi> cannot these Jesuiticall Spirits work themselves into them? And need we go far to find an instance they have done so?</p>
+            <p>2. In the next place see whence they come, and <note place="margin">Verse 33.</note> (saith the Text) <hi>they proceede out of the mouth of the Dragon, out of the mouth of the Beast, and out of the mouth of the false Prophet:</hi> Out of the mouth of the Dra<g ref="char:EOLhyphen"/>gon] that old crooked Serpent the Devill, and this perhaps is some <hi>prophane debaucht spirit,</hi> such a one as leads the Cavaliers, a Spirit which is more specially imployed to advance Sathans owne Kingdome. Another of these proceeds out of the mouth of the Beast, that is (say Divines) the secular Antichrist, the House of <hi>Austria,</hi> and the <hi>Spaniard,</hi> and this Spi<g ref="char:EOLhyphen"/>rit possibly more directly intends the <hi>Spanish faction,</hi> and the advancement of that; and is not much unlike
+<pb n="16" facs="tcp:121184:13"/> that Spirit which over-rules our Enemies Councells at this day: The third proceeds out of the mouth of the <hi>false Prophet,</hi> that is, the Pope; and perhaps this spirit is more especially to endeavour the pro<g ref="char:EOLhyphen"/>moting of Religion, I mean the Popish Religion, not much unlike that Spirit which now adayes pos<g ref="char:EOLhyphen"/>sesses the <hi>Oxford</hi> Clergie. But yet withall consider, In regard these Spirits are compared to <hi>Froggs,</hi> which <note place="margin">Verse 13.</note> you know are <hi>Amphibia,</hi> can live in both Elements, we must not conceive them to be limited so to their respective imployments, but that the Spirit which acts for the Church, can act for the State; that which tiades for Popery, can drive the <hi>Spanish</hi> faction, and so <hi>é contra,</hi> and both these, if neede be, can drink, and whore, and fight, and swear, and damn, and so can act the Devills prophane spirits also.</p>
+            <p>3. Yet further, take notice what they are sent about, and (saith the Text) it is to <hi>Seduce the Kings of the</hi>
+               <note place="margin">Verse 14.</note>
+               <hi>earth, and to draw them to battell:</hi> And now me think I heare these croaking Froggs, and what they buzze into the years of these same Princes, me thinks I hear them thus a moaning Popery to them: <q>That ancient, that Catholike Religion, that sweet and easie way of serving God, that way of so much licence and plea<g ref="char:EOLhyphen"/>sure, and this in danger to be <note n="*" place="margin">So is our Covenant.</note>
+                  <hi>extirpated,</hi> beloved Po<g ref="char:EOLhyphen"/>pery <hi>extirpated,</hi> and no man moved at it!</q>
+            </p>
+            <p>
+               <q>That way which surely Monarchs, and their law<g ref="char:EOLhyphen"/>lesse, arbitrary Rule, have not found their greatest ene<g ref="char:EOLhyphen"/>my; nay, such a friend, so great support unto them, that when it fals, they cannot hope to hold outlong after!</q>
+               <q>Besides (say they) do but appear, your people are soon husht, their consciences (good tame things)
+<pb n="17" facs="tcp:121184:13"/> will never let them fight against their King; or should they be so hardy, you will prevaile.</q>
+               <hi>Go up</hi> (say they) <hi>and prosper, Go up and prosper</hi> (as once those lying <note place="margin">1 King. 22.</note> Spirits exited <hi>Ahab,</hi> and unto which it is not unlike<g ref="char:EOLhyphen"/>ly tis here alluded) Or should you not prevail, you can come in at pleasure, and after all attempts of blood and violence, 'twill be a drawn match, you can accommodate when you will. Thus can these evill Spirits excite these easie Kings to take up Arms in their quarrell.</p>
+            <p>Nor is the peoples danger ever a whit the lesse, be<g ref="char:EOLhyphen"/>cause these are said to go, and <hi>Seduce the Kings of the</hi>
+               <note place="margin">Verse 14.</note>
+               <hi>earth,</hi> no mention at all being made of their people: Alas, who knows not, they being drawn away, thou<g ref="char:EOLhyphen"/>sands of their people, either through respects to the same cause, or else respects to them, will follow after? And now put all together, and if these Emissaries are Spirits, and Spirits that come from the Beast, false Prophet, and that old crafty Serpent; and are sent forth abroad on purpose to deceive, no marvell that many (when these are abroad) shall be deceived, and so lose their Garments. Thats a second Ground.</p>
+            <p>And is this so? When therefore now these spirits <label type="milestone">
+                  <seg type="milestoneunit">Ʋse </seg>1</label>
+               <label type="milestone">
+                  <seg type="milestoneunit">Exhor. </seg>
+               </label> are gone abroad, Oh believe there's danger, if we do not take heed, we may lose our Garments. If any make question whether these seducing spirits are yet abroad or no; I do beseech such advisedly to consider, Why! is it not the evening of the world, doth it not grow late? and is not this then the time for these <hi>Froggs,</hi> these croaking creatures to come abroad? Besides, have we not seen Popery of later yeares at a great Ebbe, and the <hi>Austrian,</hi> and <hi>Spanish</hi>
+               <pb n="18" facs="tcp:121184:14"/> power greatly abated; and is it not then high time these Spirits be sent abroad, to call in all their friends, to help their sinking cause and party? Doth any yet make Question? pray read their Commission, see, are they not directed to the <hi>Kings of the Earth?</hi> and beloved I appeal to you, are not these Spirits <hi>familiar</hi> in Court at this day, nay are there any more <hi>familiar?</hi> Hath not a Popish Spirit possest their Di<g ref="char:EOLhyphen"/>vines; a Spanish, their Councells; and their Soul<g ref="char:EOLhyphen"/>diery, with others, a Spirit of odious debauchtnesse, and prophanenesse? Again, are their instructions to seduce the Kings of the <hi>Earth to battell?</hi> and wo to us, have they not prevailed here in this Kingdome? have they not drawn the King into Armes, and we experience the miseries following hereupon, every day more and more?</p>
+            <p>Yet further, could we have once imagined, that so many of our Nobles, Gentry, Ministery; besides so many thousands other people, should engage their lives and Estates, against Religion, Laws, and Liber<g ref="char:EOLhyphen"/>ties, had not those deceiving Spirits been among us, and seduced them? Nay <hi>(Honoured Patriots)</hi> could it have been believed, that so many of your own <hi>Members,</hi> that are a choise and pickt number; and trusted with all that's dear to good men, should yet go off from you, yea and make themselves a Parlia<g ref="char:EOLhyphen"/>ment against you (if so be a Seduced head, and a company of rotten members could have done it) had they not been bewitched to it by these Spirits? And for you which hitherto have not been taken off, could any man have expected, so many designes to weary you, to divide you, and blast you, and your
+<pb n="19" facs="tcp:121184:14"/> great undertakings, had not these Spirits laid these designes, and so accordingly been first among you? Or can it once enter us, that after the enemy hath gi<g ref="char:EOLhyphen"/>ven so many reall demonstrations of their purposes; <hi>(Irelands</hi> war, and <hi>Irelands</hi> peace, with other such like instances) that yet there should be a sort of people re<g ref="char:EOLhyphen"/>maining amongst us, that will beleeve there's nothing all this while-intended by them, but the establish<g ref="char:EOLhyphen"/>ment of Protestant Religion, with peace, and just Liberties; had not the God of this world sent these <hi>Spirits to blind them utterly, and to give them over to strong delusions, to beleeve lies?</hi>
+            </p>
+            <p>And further, do we yet question whether these garment-takers have been among us? Whence then is it, I beseech you, that this man hath lost his inte<g ref="char:EOLhyphen"/>grity, tis gone; that man his Courage, and Spirit, tis gone; that man his forwardnesse for God and his Country, tis gone? nay, every one of us, may be, hath lost somewhat, and perhaps some of us have lost all: all our garments gone, <hi>Unlesse</hi> (it may be) <hi>they have left us a cloak, to hide our present dissembling.</hi>
+            </p>
+            <p>Yet once more, do we doubt whether these Spirits are abroad? I beseech you look abroad then, and see, after they had <hi>drawn</hi> off from us whom they could; which of the neigbour Nations have they not endea<g ref="char:EOLhyphen"/>voured to <hi>draw</hi> upon us. You see what hath been at<g ref="char:EOLhyphen"/>tempted in <hi>Ireland,</hi> but that God hath sent that curst generation, as their curst Cowes, short hornes. <hi>Scot<g ref="char:EOLhyphen"/>land</hi> hath been tampered with, not once, nor twice, but God hath made them faithfull, and their tampe<g ref="char:EOLhyphen"/>ring there hath been in vaine. The <hi>Dane</hi> hath been solicited, and we once more in danger to be infested
+<pb n="20" facs="tcp:121184:15"/> by them, but that while they were a preparing to put us into combustions, they were happily called away to quench their own. They have Es<g ref="char:EOLhyphen"/>sayed the <hi>Netherlands,</hi> whom God direct hereafter to pay us in our own coyne, and not send us <hi>fire, and fuell</hi> to encrease our burnings, that have lent them (I say not so much <hi>water)</hi> but of our bravest <hi>Eng<g ref="char:EOLhyphen"/>lish blood</hi> to quench theirs. These <hi>unclean Spirits</hi>
+               <note place="margin">Verse 13.</note> have once more crossed the Seas to try <hi>France;</hi> and I pray God the next Spring do not shew us how too too potent they have been in that Kingdome; and that we be not more unhappy in their return from thence, then formerly we were by their first com<g ref="char:EOLhyphen"/>ming.</p>
+            <p>And now by this time I hope there's none that farther questions, but that these Spirits are come a<g ref="char:EOLhyphen"/>broad, and <hi>walk:</hi> and think we so indeed? Oh! then beleeve we are fallen upon dangerous times; beleeve, that now these Spirits <hi>haunt</hi> us, there is danger, if we take not heed, we shall lose our Garments.</p>
+            <p>Therefore in the next place, because the danger is <label type="milestone">
+                  <seg type="milestoneunit">Ʋse </seg>2</label>
+               <label type="milestone">
+                  <seg type="milestoneunit">Exhor. </seg>
+               </label> such, be perswaded every one of us to <hi>watch:</hi> so the Text, <hi>blessed is he that watcheth:</hi> And is there not a<g ref="char:EOLhyphen"/>boundant cause? doth it not grow late? is it not a slee<g ref="char:EOLhyphen"/>py time, and many <hi>fallen asleep?</hi> yea do not these Spi<g ref="char:EOLhyphen"/>rits <hi>walk?</hi> are not these garment-stealers abroad, and men at this day not in more danger to be plundred of their <hi>Goods</hi> then of their <hi>Goodnesse;</hi> and no lesse cause to feare the risling of our <hi>Hearts,</hi> then of our <hi>Houses?</hi>
+            </p>
+            <p>
+               <hi>If the good man of the house knew as what hour the</hi>
+               <note place="margin">Mat: 24. 43.</note>
+               <hi>theof would come, he would watch:</hi> and now you are
+<pb n="21" facs="tcp:121184:15"/> told there are these theeves abroad: <hi>Ut teipsum salves nonne expergisceris?</hi> will you not be perswaded to watch? But I must come a little nearer.</p>
+            <p>And first for you of the Nobility, and Gentry: <note place="margin">Nobles and Gentry.</note> have you seen these seducing Spirits fetch off so ma<g ref="char:EOLhyphen"/>ny of your own Tribes already, and are practising at this day with the same, if not finer Arts, to take off you; and doth it not concern you to look about you? May you be sure, if promising you a Mahomets Paradise among them, all the sensuall joy, and plea<g ref="char:EOLhyphen"/>sure imaginable; or else suggesting to you, Why! here is nothing intended but Parity, Nobles and Pesants shall be all fellowes: Or that the Reformation now in hand, will certainly be such a <hi>yoak,</hi> as neither you, nor your fore-fathers could ever bear. If these, or any other Arts, more suting your condition, or temper will do it, you will be taken off; and doth it not behove you to looke about you?</p>
+            <p>And for the Souldiery; do they not lay ambush<g ref="char:EOLhyphen"/>ments <note place="margin">Souldiers.</note> for you, what else are these suggestions; Why! the Parliament hath no honour to confer up<g ref="char:EOLhyphen"/>on you; do them never so great service they cannot reward you; or if they could, yet certainly they will not spare it from themselves; but rather having served their own turn of you, put you off, as once <hi>Nahal</hi> did <hi>David: Who is David, and who the son of</hi>
+               <note place="margin">1 Sam. 27. 8.</note>
+               <hi>Jesse, that I should take of my bread, and my flesh, that I have provided, and give it to him?</hi> And then again; suggest, suppose you are slow, or false, or do them a dis-service, they punish none neither, they neither reward the greatest service, nor punish the greatest dis-service: plainly making the Parliament an Idoll,
+<pb n="22" facs="tcp:121184:16"/> such as hath <hi>members</hi> indeed, <hi>Eyes,</hi> but see not; <hi>Eares,</hi> but hears not; just such another as the <hi>Idoll</hi> is descri<g ref="char:EOLhyphen"/>bed: And doth it not then behoove you Souldiers <note place="margin">Psal. 115. 56.</note> to be upon your guard, and watch?</p>
+            <p>Next for the Ministry: and do I not hear them sayto <note place="margin">Ministers.</note> Why! do these new Reformers intend anything in the Church, but Anarchy and confusion? there was not much left among us was hoary, and venerable for its Antiquity, but its gone, and all that was de<g ref="char:EOLhyphen"/>cency and Order gone: and whereas before there was some encouragement to learning, and virtue, and such as were deserving might have attained the dou<g ref="char:EOLhyphen"/>ble honour of <note n="*" place="margin">Bishopricks.</note>
+               <hi>dignity</hi> and <hi>maintenance;</hi> now both are taken away; and if it were <hi>Jeraboams</hi> fault to <note place="margin">1 King. 12. 3.</note> make <hi>the lowest of the people Priests,</hi> these will certainly <hi>make Priests the lowest of the people.</hi>
+            </p>
+            <p>And then for the people, for they come as low as them, and with <hi>Domitian</hi> will rather catch flyes than not be employed: and what strange wiles have they made use of to deceive the people: Are there some that will not fight for Popery, <hi>properly so called?</hi> why then the quarrell shall be the Protestant Religion; they tell the people all that ever they do, is in defence of that. Are there others that will not fight for Ar<g ref="char:EOLhyphen"/>bitrary government, and Tyranny? Then the quar<g ref="char:EOLhyphen"/>rell shall be the maintenance of Priviledges, and Li<g ref="char:EOLhyphen"/>berties of the people, those onely shall be pretended. Do we fight for Protestant Religion? so do they: publike Liberties? so do they: Have we a Parlia<g ref="char:EOLhyphen"/>ment? (they pretend at least wayes) so have they: do we appeal to God concerning our integrity, and call him to witnesse? so do they: do we Fast? so
+<pb n="23" facs="tcp:121184:16"/> do they: do we give thanks for successes? so do they: in short, they have drest their cause on pur<g ref="char:EOLhyphen"/>pose so like ours, that those two <hi>Socia's</hi> were not more mistaken in the * <hi>Comedie,</hi> than these two Causes are <note place="margin">Plautus in Ani<g ref="char:EOLhyphen"/>phitru.</note> at this day by the vulgar people. They have a world of such like wayes to take the people by, but I for<g ref="char:EOLhyphen"/>bear; and doth it not then behove you to watch?</p>
+            <p>And now for you <hi>(most Honoured Worthies)</hi> have you <note place="margin">Parliament.</note> seen so many of your own members drawn away, and doth it not concern you to look about you? what though you have perhaps repulsed these Spirits once, a second, a third time, it may be they have but left you as the <hi>father</hi> of them (Sathan I mean) left our Saviour; <hi>He went away from him for a season:</hi> Or else <note place="margin">Luke 4. 18.</note> (you will say) you see not any such among you? Alas, are they not Spirits; your subtile invisible things, such as can be, and live, and walk, among us, and we never the wiser? And though they do not directly set upon you themselves; I but as Sathan once crept into <hi>Simon Peter,</hi> to get the better suite at his master; so will these into a friend, a wife, a child, and in them try what they can operate upon you; and be you confident of it, they will neglect no means, omit no diligence to win off you; knowing, that if they can but once gain you, they are masters of their businesse.</p>
+            <p>If therefore there be forward ones among you, they will endeavour (if they can prevaile no farther) to gain you moderate: if moderate, to freeze you into neutrality, into nothing: if of a fearfull Spirit, present a thousand dangers, try you with threats, which if they will not do; but wind and tempest;
+<pb n="24" facs="tcp:121184:17"/> makes you, <hi>as the traveller in the Fable, wrap your gar<g ref="char:EOLhyphen"/>ments closer about you:</hi> then try with <hi>Sun-shine,</hi> see what fair means can do. If of an ambitious Spi<g ref="char:EOLhyphen"/>rit, you shall swim in honour; if of sorded earth<g ref="char:EOLhyphen"/>ly Spirit, you shall flow in wealth: if of an envious Spirit, then shew you others in a magnifying glasse; they have all respect, and honour heaped on them; you neglected, not lookt after: Thus trying first to bring you into dislike with persons, afterwards im<g ref="char:EOLhyphen"/>proving it to dislike the cause it self. If you attempt any high thing, why then the Kingdome will leave you, you will engage all the Princes of Christen<g ref="char:EOLhyphen"/>dome against you: If you cast to go on in your Ne<g ref="char:EOLhyphen"/>cessary War, then the Land is exhausted, people are quite tyred out. If for Peace, then tamper, and treat, and intreat, the terms so low, as, being accepted, shall make us more certainly miserable then our War.</p>
+            <p>And now if all of us be in such danger; Nobles, Gentry, Souldiers, Ministry, People, Parliament, All: Oh, be we all of us perswaded to Watch: see our Integrity be not corrupted, look well unto our Consciences, our Garments: And let me tell you, If any through want of watchfulnesse, shall suffer these wily Spirits to take away their Garments, this great unhappinesse will certainly befall them, <hi>They shall walk naked, and men shall see their shame,</hi> for so my next Observation tels you.</p>
+            <p>
+               <hi>Such as through negligence lose their garments, they <label type="milestone">
+                     <seg type="milestoneunit">Obs. </seg>1</label> shall go naked, and men shall see their shame.</hi>
+            </p>
+            <p>Nor is it any new thing that sin, Apostacy should make a people naked: When our first Parents had
+<pb n="25" facs="tcp:121184:17"/> sinned, and so lost their Garments of Innocency, then it was that they became <hi>naked.</hi> And when that <note place="margin">Gen. 2. 3. Exod. 32. 25.</note>
+               <hi>Israel</hi> had miscarried in the matter of the Calfe, then it was that <hi>Moses</hi> saw them <hi>naked:</hi> God dealing in this case with men, as I have sometimes read a great <note n="*" place="margin">
+                  <hi>Romilda</hi> Dutches of <hi>Fryoly.</hi>
+               </note>
+               <hi>Italian</hi> Lady was once used; who, so the enemy that came against her would satisfie her lust, was willing to betray her Country to him; he condescen<g ref="char:EOLhyphen"/>ded, but afterward caused her to be stuck <hi>naked</hi> upon a stake, that all might see that shamefulnesse, which she to satisfie the lust of, was content to betray her Country.</p>
+            <p>And certainly God doth us no wrong in thus dea<g ref="char:EOLhyphen"/>ling; nay, how equall is it, that when all Apostacyimi<g ref="char:EOLhyphen"/>tates that of our first Parents in the likenesse of the sin, it should imitate it also in likenesse of the punish<g ref="char:EOLhyphen"/>ment, and <hi>Adams</hi> sin repeated, should make men in this sense <note n="*" place="margin">
+                  <hi>Adamites</hi>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sect that walk naked.</note>
+               <hi>Adamites,</hi> and walk naked.</p>
+            <p>Oh therefore be we all of us perswaded, in these bad times to <hi>keep</hi> our <hi>Garments,</hi> preserve we our <label type="milestone">
+                  <seg type="milestoneunit">Ʋse </seg>
+               </label>
+               <label type="milestone">
+                  <seg type="milestoneunit">Exhor. </seg>
+               </label> Integrity, keep a good Conscience; oh do not hear<g ref="char:EOLhyphen"/>ken to these Seducing Spirits, for if you do, they will rob you of all your <hi>Garments,</hi> and then you shall <hi>walk naked, and men will see your shame.</hi> And doth this nothing move you; What? That men shall point at you, There's a Run-away, There goes an Apo<g ref="char:EOLhyphen"/>state, a Judas, unworthy of ever being trusted. And I appeal to you, is any thing so mean, so contempti<g ref="char:EOLhyphen"/>ble among us, as those, that have suffered themselves to be drawn away by these seducers; or will the me<g ref="char:EOLhyphen"/>mory of any be so abhorr'd of after ages, as will the memory of those, who have so shamefully turned
+<pb n="26" facs="tcp:121184:18"/> their backs upon the cause of Religion, and Publike Liberties. If <hi>shame</hi> prevaile not, and fear of <hi>naked<g ref="char:EOLhyphen"/>nesse,</hi> which yet are Potent upon modest Spirits, and I have somewhere learned, A modest Ma<g ref="char:EOLhyphen"/>tron hath chose to dye, to dye, I say of a secret di<g ref="char:EOLhyphen"/>sease, rather than he, who otherwayes could have cured her, should see her nakednesse. So fearfull are modest ones, of the discovery of their nakednesse. If <hi>scorn</hi> will not prevail, which yet exceeding much prevailes with men of honour; witnesse that <note n="*" place="margin">Camerarius ex F<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r.</note>
+               <hi>Gas<g ref="char:EOLhyphen"/>coignes</hi> words, who told the King of <hi>France</hi> his ma<g ref="char:EOLhyphen"/>ster, that for a foul disgrace or scorn put upon him, he could turn Traytor, when otherwayes the King<g ref="char:EOLhyphen"/>dome and wealth of <hi>France,</hi> was not sufficient to cor<g ref="char:EOLhyphen"/>rupt him. I say, if neither <hi>shame</hi> nor <hi>scorn</hi> will pre<g ref="char:EOLhyphen"/>vaile, I could tell you, it will not onely <hi>shame</hi> you here, but it will also <hi>condemn</hi> you hereafter; <hi>If any deny Christ and his cause before men, Christ will deny</hi>
+               <note place="margin">Mat. 10.</note>
+               <hi>them before his Father, and before his holy Angels:</hi> I could adde more of danger, but I forbear and keep me to the Argument of my Text, which I neede not distrust, but will prevaile upon ingenious Spirits; Therefore be perswaded <hi>to keep your Garments, other<g ref="char:EOLhyphen"/>wise you shall go naked, and men will see your shame.</hi>
+            </p>
+            <p>And shall not this prevail upon you (most honou<g ref="char:EOLhyphen"/>red worthies:) you are the <hi>Fathers</hi> of the Common<g ref="char:EOLhyphen"/>wealth, Oh suffer no cursed <hi>Cham,</hi> finding you a sleep, to steal away your <hi>Garments,</hi> and afterward come in and laugh at your nakednesse; they will do so if you take not heed: It is their way you know to <hi>Knave a man, and then fool him,</hi> and as <hi>Caesar</hi> sometimes distin<g ref="char:EOLhyphen"/>guishing between the Treason, and the Traitor, can
+<pb n="27" facs="tcp:121184:18"/> love the one, and yet easily abhor and lay aside the other.</p>
+            <p>And truely what is it that can invite any man to that party; Is it <hi>honour?</hi> alas, doth not a man in going off from hence, lose more, and leave more be<g ref="char:EOLhyphen"/>hind him, then all the other side, yea take the <hi>Fountain</hi> and all, are able to repaire him: and can there be a more unhappy mistake, then for men to lose the <hi>thing,</hi> while they are in pursute of the <hi>Title?</hi>
+            </p>
+            <p>Is it <hi>Estate,</hi> why, I beseech you consider, though the Popish party will admit of sharers in the <hi>work,</hi> yet if they prevail, will they admit of sharers in the <hi>wages;</hi> and not rather do as the Lyon in the Fable, suffer other beasts to take the pray, but themselves onely will devour it.</p>
+            <p>Or is it <hi>Fear?</hi> Why, do their worst, they can but <note place="margin">Mat. 10. 28.</note>
+               <hi>kill the body;</hi> they can but at the uttermost throw down those mud walls, which but a little while lon<g ref="char:EOLhyphen"/>ger, would have mouldred away, and fallen of them<g ref="char:EOLhyphen"/>selves. It may be they shall not be able to do that neither: The stoutest of them, are limited, and cannot go a whit beyond their expresse commission: Or were they suffered to kill us: A great matter: tis no more then an Apoplexie, or Fever can do, a tyle falling off a house can do as much; yea a <hi>Flye</hi> can do as much, Pope <hi>Adrian</hi> (as tis storied) was choackt with a <hi>Flye.</hi> And shall we then fear either the threats or power of such as these? Nay rather then through fear forsak your Garments, do like those <note n="*" place="margin">Livi. lib. 50.</note>
+               <hi>Roman Fa<g ref="char:EOLhyphen"/>thers,</hi> who when that <hi>Brennus,</hi> with his <hi>Gaules</hi> had entred their City, they every man put on their <hi>Robs,</hi> seat themselves in the market place, and would dye
+<pb n="28" facs="tcp:121184:19"/> in that posture: Or like some gallant Spirit, who seeing the day is lost, wraps himself in his <hi>Colours</hi> and so dyes: wrap these garments about you and <hi>dye</hi> in them: and be you assured, <hi>you cannot do better, then to dye in your Integrity.</hi>
+            </p>
+            <p>(Honourable, Beloved) I hope you are they shall make the Whore <hi>naked</hi> (such we read of in the fol<g ref="char:EOLhyphen"/>lowing <note n="*" place="margin">Chap. 17. 16.</note> chapter) Oh! do not suffer her to make you <hi>naked:</hi> we read (I say) that some of these We<g ref="char:EOLhyphen"/>stern and Northern Nations shall do so, and why not you? Why may not you that have begun so hap<g ref="char:EOLhyphen"/>pily, go on in laying open all her shame, till you have made that <hi>Romish whore utterly naked:</hi> but oh do not suffer her to come even with you, and after you have stript her, of her <hi>whorish Garments,</hi> suffer her by her Emissaries to strip you of your <hi>Robes of Righteous<g ref="char:EOLhyphen"/>nesse:</hi> But carefully look to these, preserving faith, and a good Conscience; and the rather, for so not onely you shall escape this misery, <hi>of walking naked;</hi> but (which is infinitely more) you shall be <hi>Blessed</hi> also; which brings me full upon my third, and last Observation.</p>
+            <p>
+               <hi>Such as, when the Popish Emissaries are abroad, do watch <label type="milestone">
+                     <seg type="milestoneunit">Obs. </seg>3</label> and keep their Garments, are Blessed.</hi> So the Text speakes expresly. <hi>Blessed is he that watcheth and keepeth his Garments:</hi>
+            </p>
+            <p>And certainly, if either present <hi>Grace</hi> or future <hi>Glo<g ref="char:EOLhyphen"/>ry</hi> can make them blessed, they are so: if <hi>Grace</hi> can do it; why! I have shown you all along, a Christi<g ref="char:EOLhyphen"/>ans <hi>Graces,</hi> are a Christians <hi>Garments:</hi> and so accor<g ref="char:EOLhyphen"/>dingly, he wants no <hi>Grace,</hi> that wants none of his <hi>Garments.</hi> If future <hi>Glory;</hi> This they are assured of,
+<pb n="29" facs="tcp:121184:19"/> upon this expresse condition; <note n="*" place="margin">2 Cor. 5. 3.</note>
+               <hi>If so be that being cloathed, that they shall not be found naked;</hi> and there's no question of it, If men do not lose their <hi>Grace,</hi> they are sure they shall not lose their <hi>Glory.</hi>
+            </p>
+            <p>And therefore as we would not fall short of hap<g ref="char:EOLhyphen"/>pinesse. <label type="milestone">
+                  <seg type="milestoneunit">Ʋse </seg>
+               </label> Oh be perswaded once more to <hi>watch</hi> and <hi>keep</hi> our <hi>Garments;</hi> Oh! keep Integrity, faithfulnesse to Christ, and his cause: And because this is the time for all seducing, and garment-stealing Spirits to be abroad, let me remember all of you, to look to these <hi>Garments</hi> also.</p>
+            <p>Our <hi>Mourning Garments,</hi> there are Spirits abroad <milestone type="tcpmilestone" unit="unspecified" n="1"/> would pillage us of these. The Land <hi>mourns,</hi> Church <hi>mourns,</hi> our Friends stand <hi>mourning</hi> round about; but there are, that would not have us <hi>mourn:</hi> Oh! but do not suffer your selves to be spoyled of these same Garments; say to these lighter Spirits, as once <hi>Nehemiah: Why should not I be sad?</hi> and why should not my countenance be cast down? Oh hold your purposes of wearing <hi>mourning,</hi> while Church and State, and all is in a state so <hi>mournfull;</hi> and be you sure when ever these shall put on <hi>gladnesse,</hi> you <note place="margin">Isai. 65. 10.</note> that have mourned with them, shall together with them put on the <hi>Garments of gladnesse</hi> also.</p>
+            <p>Our <hi>Strait Garments.</hi> There are Spirits <hi>walk,</hi> that <milestone type="tcpmilestone" unit="unspecified" n="2"/> would take these from us. <q>What, say they, needs all this strictnesse?</q>
+               <q>Beleevers are set free from bondage of Law, and Commands, they are set at liberty, they, and should they transgresse, yet God sees no Iniqui<g ref="char:EOLhyphen"/>ty in his people:</q> Stop, stop, your eares against these witching charmes. Oh, keepe your <hi>straiter</hi> garments, and let this consideration <hi>tye</hi> them <hi>close</hi> about you,
+<pb n="30" facs="tcp:121184:20"/> that if you once begin to wear <hi>loose garments,</hi> it will not be long before you <hi>lose</hi> your Garments.</p>
+            <p>
+               <hi>Seamelesse Garments,</hi> Garments of Unity and Love, <milestone type="tcpmilestone" unit="unspecified" n="3"/> and oh! how happy were it, that Parliament, Mini<g ref="char:EOLhyphen"/>sters, People, could agree among themselves, and one among another. Sure among some of us diffe<g ref="char:EOLhyphen"/>rences are not great, if gentle and healing Spirits have the handling of them: and oh how happy we, if in those smaller things, wherein we cannot concen<g ref="char:EOLhyphen"/>trate and <hi>fall in,</hi> at least wayes we would not <hi>fall out:</hi> did we but put on these Garments (I mean of Unity and Love) how easily would <hi>they cover a multitude of</hi>
+               <note place="margin">1 Pet. 4. 8.</note>
+               <hi>those fanlts,</hi> and differences that are among us.</p>
+            <p>But I forbear to presse this same, or tell you of what danger our jarryings are, when every one knows: It is indeed all the Enemie hath to hope upon:</p>
+            <p>And for you <hi>(Noble Worthies)</hi> besides the former, I shall yet further commend to your wearing such as these.</p>
+            <p n="1">1. For the Church, and Church affaires, <hi>Zeal:</hi> Oh! tis a <hi>warm</hi> garment these cold times, and will preserve you from an unhappy Indifferency, and Lukewarmnesse in Gods matters, a temper which God hates, and for which he threatens to <hi>spew a peo<g ref="char:EOLhyphen"/>ple out of his mouth.</hi>
+               <note place="margin">Revel. 3. 16.</note>
+            </p>
+            <p n="2">2. For the State, <hi>A Robe of Justice:</hi> and would God this Robe were ofter worn, and dyed of a dee<g ref="char:EOLhyphen"/>per colour in the blood of Delinquents. It is that which God and man calls for, God repeats it <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Deut. 16. 20.</note>
+               <hi>Ju<g ref="char:EOLhyphen"/>stice, Justice;</hi> we ecchoing God, cry, <hi>Justice, Ju<g ref="char:EOLhyphen"/>stice:</hi> and let me say, perhaps we should not see other
+<pb n="31" facs="tcp:121184:20"/>
+               <hi>Garments so much rol'd in blood,</hi> did we not see these so little.</p>
+            <p n="3">3. For fighting times, but that I speak to Coun<g ref="char:EOLhyphen"/>cellors, rather then to Souldiers (though some of you are eminently both) I should perswade you look to <hi>Courage</hi> and <hi>Faithfulnesse.</hi>
+            </p>
+            <p n="4">4. But then for treating times (if yet there may be such) I say for treating times, <hi>Wisedome, Integrity, Resolution,</hi> and never more need to keepe these close a<g ref="char:EOLhyphen"/>bout you then at those times. If they can over-reach you tehy will, If they can corrupt you they will; and (being brought low) if begging, if a precarious way will do any thing, they will try that also. Come (say they) <q>Why should you stick for <hi>Prelacy,</hi> for <hi>Prerogative,</hi> or to have this mans State, or that man brought to punishment;</q>
+               <q>Let not such smaller mat<g ref="char:EOLhyphen"/>ters as these make a breach, let us not for such trifles as these again put our selves into blood and Armes:</q>
+               <q>They are but * <hi>little ones,</hi> and we shall live together <note place="margin">As <hi>Lot</hi> of <hi>Zoar</hi> Gen. 19. 20.</note> and love, as well as ever.</q> Any way to undo us, and gain their own purposes.</p>
+            <p>And therefore to sum up all, and so to draw to a Conclusion. Would you not <hi>walke naked,</hi> be the shame and scorn of men, be <hi>posted,</hi> as some have been; be infamous to all the ages to come. Oh be perswa<g ref="char:EOLhyphen"/>ded to keep your Garments, your mourning Gar<g ref="char:EOLhyphen"/>ments, your Straiter Garments, your Church Gar<g ref="char:EOLhyphen"/>ments, your State Garments, your fighting Gar<g ref="char:EOLhyphen"/>ments, your treating Garments: Oh let no tempt<g ref="char:EOLhyphen"/>ing Spirit alay any thing of former Zeal, no tampe<g ref="char:EOLhyphen"/>ring remove you from former Integrity: Go as much higher as you may, but let no endeavours of any, or
+<pb n="32" facs="tcp:121184:21"/> make you go lesse, or lower, then upon good advice you have done formerly. *<hi>Sed pergite, ite contra tem<g ref="char:EOLhyphen"/>pestatem</hi>
+               <note place="margin">
+                  <hi>Caesar</hi> to his Ferry-man.</note>
+               <hi>forti animo.</hi> Keep but these Garments, hold out unto the end, not moved either by noise of tem<g ref="char:EOLhyphen"/>pest, or by <hi>Cyrens Charmes,</hi> and besides that you may have the honour to steere this sinking Church, and State into safe harbour, your selves shall be the honour of men, the glory and top of all the <hi>English</hi> Nation: we that live among you shall <hi>blesse</hi> you; The Churches, and Nations round about you shall blesse, yea and after ages shall rise up, and <hi>call you blessed.</hi>
+            </p>
+            <p>And when the time shall come that you must put off the <hi>Garments of this earthly Tabernacle,</hi> you shall be cloathed upon, with <hi>immortality,</hi> and <hi>glory,</hi> so the Text, <hi>Blessed is he that watcheth, and keepeth his Garments,</hi> so in effect had our Saviour said before, *<hi>Blessed is that Ser<g ref="char:EOLhyphen"/>vant</hi>
+               <note place="margin">Mat. 24. 43.</note>
+               <hi>whom when his master comes shall finde so doing.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:121184:21"/>
+         </div>
+      </body>
+   </text>
+</TEI>
